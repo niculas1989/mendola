@@ -113,7 +113,7 @@ const Home: NextPage = () => {
             Sindrome metabolica
           </li>
           <li>
-            Sindrome dell'ovaio policistico
+            Sindrome dell&apos;ovaio policistico
           </li>
           <li>
             Cardiopatie e ipertensione
@@ -137,7 +137,7 @@ const Home: NextPage = () => {
             Morbo di Crohn e Rettocolite Ulcerosa
           </li>
           <li>
-            Alimentazione nell'anziano
+            Alimentazione nell&apos;anziano
           </li>
         </ul>
       </Box>
